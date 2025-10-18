@@ -73,8 +73,7 @@ class Stepper:
 ```
 
 ## Download Library
-<a href="/Stepper.py'" download > Download Example1.py</a><br>
-![Download Stepper.py](/Stepper.py)
+<a href="/Stepper.py'" download > Download Stepper.py</a>
 
 ## Expain Code
 
