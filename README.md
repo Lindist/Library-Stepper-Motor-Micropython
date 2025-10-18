@@ -256,6 +256,6 @@ while True: # loop always true
 
 ## Download Example
 
-<a href="/Example1.py'" download > Download Example1.py</a><br>
+<a href="/Example1.py" download > Download Example1.py</a><br>
 <a href="/Example2.py" download > Download Example2.py</a>
 
