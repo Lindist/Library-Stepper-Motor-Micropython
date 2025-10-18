@@ -74,7 +74,7 @@ class Stepper:
 
 ## Download Library
 
-[Download Stepper.py]({{ '/assets/Filename/Stepper.py' | relative_url }})
+[Download Stepper.py](/Stepper.py)
 
 ## Expain Code
 
