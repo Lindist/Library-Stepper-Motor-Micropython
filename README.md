@@ -73,8 +73,8 @@ class Stepper:
 ```
 
 ## Download Library
-
-[Download Stepper.py](/Stepper.py)
+<a href="/Stepper.py'" download > Download Example1.py</a><br>
+![Download Stepper.py](/Stepper.py)
 
 ## Expain Code
 
@@ -257,7 +257,6 @@ while True: # loop always true
 
 ## Download Example
 
-<div class="text-center my-3">
-    <a href="{{ '/assets/Filename/Example1.py' | relative_url }}" download class="btn btn-primary btn-lg me-3"><i class="fa-solid fa-download"></i>  Download Example1.py</a>
-    <a href="{{ '/assets/Filename/Example2.py' | relative_url }}" download class="btn btn-primary btn-lg"><i class="fa-solid fa-download"></i>  Download Example2.py</a>
-</div>
+<a href="/Example1.py'" download > Download Example1.py</a><br>
+<a href="/Example2.py" download > Download Example2.py</a>
+
