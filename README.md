@@ -1,5 +1,12 @@
 # Library-Stepper-Motor-Micropython
 
+---
+
+> _looking at my blog is the best_
+> [My blogs](https://lindist.github.io/BlogerLindist/posts/Library-Stepper-Motor-(-Micropython-)).
+
+---
+
 ```python
 from machine import Pin
 import time
@@ -73,7 +80,8 @@ class Stepper:
 ```
 
 ## Download Library
-<a href="Stepper.py" download > Download Stepper.py</a>
+
+[Download Stepper.py](Stepper.py)
 
 ## Expain Code
 
@@ -256,6 +264,5 @@ while True: # loop always true
 
 ## Download Example
 
-<a href="Example1.py" download > Download Example1.py</a><br>
-<a href="Example2.py" download > Download Example2.py</a>
-
+[Download Example1.py](Example1.py)<br>
+[Download Example2.py](Example2.py)
