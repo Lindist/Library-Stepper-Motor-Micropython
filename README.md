@@ -73,7 +73,7 @@ class Stepper:
 ```
 
 ## Download Library
-<a href="/Stepper.py" download > Download Stepper.py</a>
+<a href="Stepper.py" download > Download Stepper.py</a>
 
 ## Expain Code
 
@@ -256,6 +256,6 @@ while True: # loop always true
 
 ## Download Example
 
-<a href="/Example1.py" download > Download Example1.py</a><br>
-<a href="/Example2.py" download > Download Example2.py</a>
+<a href="Example1.py" download > Download Example1.py</a><br>
+<a href="Example2.py" download > Download Example2.py</a>
 
